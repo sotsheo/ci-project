@@ -20,7 +20,7 @@ export default function Login() {
                     {/* <use xlink:href="#svg-logo-vikinger"></use> */}
                 </svg>
             </div>
-            <h2 className="landing-info-pretitle">Welcome to</h2>
+            <h2 className="landing-info-pretitle">Welcome to 1</h2>
             <h1 className="landing-info-title">Vikinger</h1>
             <p className="landing-info-text">The next generation social network &amp; community! Connect with your friends and play with our quests and badges gamification system!</p>
             <div className="tab-switch">
